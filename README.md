@@ -1,6 +1,3 @@
-# Library_Mgmt_System
-a simple library management system for java assignment
-
 
 Library Management System
 Prajil Bhagat (2022359)
